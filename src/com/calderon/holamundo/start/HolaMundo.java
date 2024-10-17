@@ -73,7 +73,6 @@ public class HolaMundo {
 		//esto sería 4.6 muliplicado por 10 elevado a 9.
 		double masaJupiter = 4.6E+9D;
 		
-
 		// Vamos a probar a mostrarlos por pantalla: concatenamos con +
 		System.out.println(
 				"Tu peso es de " + peso + " kilos, y tienes un saldo de " + saldoCuentaCorriente + " euros en tu CC.");
